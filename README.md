@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Stack Over Flow**
 
-- 👨‍💻 All of my projects are available at [GitHub](GitHub)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/dhruvik-variya)
 
 - 💬 Ask me about **Full-Stack Query**
 

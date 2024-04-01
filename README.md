@@ -1,7 +1,7 @@
 <img align="right" alt="coding" width="450" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <h1 align="center">Hi 👋, I'm Dhruvik Variya</h1>
-<h3 align="center">"Passionate BSc-IT Student | Full-Stack Development Enthusiast | Lifelong Learner"</h3>
+<h3 align="center">"Passionate BSc-IT Student | <br> Full-Stack Development Enthusiast | <br> Lifelong Learner"</h3>
 
 <br><br>
 

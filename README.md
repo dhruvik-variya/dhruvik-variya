@@ -24,7 +24,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Full-Stack Development**
+- 🔭 I’m currently working on **Full-Stack Development**  
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"   align="right" />
+ 
+
+###
 
 - 🌱 I’m currently learning **Something New And New**
 

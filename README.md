@@ -16,7 +16,7 @@
 </p>
 <br>
   <h2><font>🧑‍🎓Profile Viewer :</font></h2> <br>
-  <img src="https://profile-counter.glitch.me/dhruvik-variya/count.svg?"/>
+  <img src="https://profile-counter.glitch.me/dhruvik-variya/count.svg"/>
 <br>
 
 <font><h2>✨About Me :</h2></font>
@@ -26,7 +26,7 @@
 
 ###
 
-- 🌱 I’m currently learning **JAVA SCRIPT**
+- 🌱 I’m currently **FullStack Developer**
 
 - 🤝 I’m looking for help with **Stack Over Flow**
 

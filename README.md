@@ -14,7 +14,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" />
   </a>
   
-  <a href="dhruvikvariya@gmail.com" style="display:inline-block;">
+  <a href="mailto:dhruvikvariya@gmail.com" style="display:inline-block;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="40" />
   </a>
 </p>
